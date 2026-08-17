@@ -1,2 +1,4 @@
 # RGB-LED-PCB
-Designing, prototyping, and assembling PCBA prototypes that support 16 addressable RGBs, and two SMD buttons for cycling through various colors/animations. Includes FW written to support the animations and react to button presses. Testing the prototypes to verify its functionality. 
+a.	Designing, prototyping, and assembly of 3-5 PCBA prototypes that support 16 addressable RGBs, and two SMD buttons for cycling through colors/animations.
+b.	Firmware written for the commercial off-the-shelf (COTS) Seeduino Xiao MG24 to support different light animations and to react to button presses.
+c.	Testing the prototypes to verify functionality, verify the firmware flow chart, and measure current draw. 
