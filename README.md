@@ -55,7 +55,7 @@ https://youtu.be/3NSjzMN1xyc?si=KGY_VY7iNBNGU1tt
 <img width="856" height="893" alt="image" src="https://github.com/user-attachments/assets/dfd3e37f-79ea-4e52-a429-77bfd4843265" />
 
 
-## 💻 Software (hypothetical usage w/ final PCB assembly)
+## 💻 Firmware (hypothetical usage w/ final PCB assembly)
 
 ```bash
 // Simple demonstration on using an input device to trigger changes on your
