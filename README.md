@@ -292,6 +292,8 @@ c.	PCBA Prototyping budget: $120
 5. Export manufacturing files (component datasheets) and keep them alongside the BOM and DRC reports.
 6. Compile into a compliance package: Combine the BOM, DRC log, netlist, and manufacturing files into a single document or folder for submission to manufacturers or regulatory bodies.
 
+Note: A complete report has not been generated; however, all requirements have been met. 
+
 ## 🙌 Credits
 
 ### My Project Team
